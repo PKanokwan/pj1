@@ -39,6 +39,16 @@ include("auth.php");
         <div class="col" style="padding-right: 0px;padding-left: 0px;">
         <a class="btn btn-primary  registerbtn head-title-form" href="register.php"   style="width:100%;border:0px; padding: 0.8rem;">สมัครสมาชิก</a>
         </div>
+
+<div class="txtb">
+          <input type="password" name="password">
+          <span data-placeholder="Password"></span>
+        </div>
+     
+        <input type="submit" class="logbtn" style="width:100%"  value="ยืนยัน">
+        <div class="col" style="padding-right: 0px;padding-left: 0px;">
+        <a class="btn btn-primary  registerbtn head-title-form" href="register.php"   style="width:100%;border:0px; padding: 0.8rem;">สมัครสมาชิก</a>
+        </div>
       
 
 
